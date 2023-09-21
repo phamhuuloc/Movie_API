@@ -6,5 +6,6 @@
 # Loại bỏ các tệp cụ thể
 .config
 .husky
+.vscode
 appsettings.Development.json
 appsettings.json
