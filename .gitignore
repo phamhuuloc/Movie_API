@@ -1,0 +1,10 @@
+# Loại bỏ các thư mục
+/bin/
+/obj/
+/Properties/
+
+# Loại bỏ các tệp cụ thể
+.config
+.husky
+appsettings.Development.json
+appsettings.json
